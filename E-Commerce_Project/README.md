@@ -7,13 +7,11 @@ The store has valuable data on its sales, products, customer purchasing behavior
 
 Insights and recommendations are provided on the following key areas:
 
-\\Sales Trend Analysis:\*\*Evaluation of overall sales both by country and category, focusing on Revenue, Profit, Volume of orders and Average Order Value (AOV)
+Sales Trend Analysis: Evaluation of overall sales both by country and category, focusing on Revenue, Profit, Volume of orders and Average Order Value (AOV)
 
-\\Brand \& Product level Performance:\*\*An analysis of Beet's products, brands \& categories, including their impact on sales
+Brand & Product level Performance: An analysis of Beet's products, brands \& categories, including their impact on sales
 
-\\Regional Performance:\*\*An Evaluation of revenue, orders and sales performance across various countries
-
-\\Customer Behavior and Purchasing Pattern:\*\*Analysis of customer product preference and payment behaviour to understand their contribution to sales
+Customer Behavior and Purchasing Pattern: Analysis of customer product preference and payment behaviour to understand their contribution to sales
 
 The DAX Formulas used to calculate and aggregate new measures for this analysis can be found \[here](https://docs.google.com/document/d/1ar1-KqKwVl\_Z9YIilHPeV29UvgUJwl3iw9Y3FPKfOKg/edit?usp=sharing).
 
