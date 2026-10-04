@@ -15,7 +15,8 @@ Customer Behavior and Purchasing Pattern: Analysis of customer product preferenc
 
 The DAX Formulas used to calculate and aggregate new measures for this analysis can be found \[here](https://docs.google.com/document/d/1ar1-KqKwVl\_Z9YIilHPeV29UvgUJwl3iw9Y3FPKfOKg/edit?usp=sharing).
 
-A view of the dashboard used to report and explore the dataset is seen here !\[Visualization specific to category 2](./E-Commerce\_Project/dashboard.png)
+A view of the dashboard used to report and explore the dataset is seen here !\<img width="679" height="511" alt="dashboard" src="https://github.com/user-attachments/assets/e07fa8c8-8f08-4339-b624-80231f65e7f5" />
+
 
 
 
