@@ -15,7 +15,8 @@ Customer Behavior and Purchasing Pattern: Analysis of customer product preferenc
 
 The DAX Formulas used to calculate and aggregate new measures for this analysis can be found \[here](https://docs.google.com/document/d/1ar1-KqKwVl\_Z9YIilHPeV29UvgUJwl3iw9Y3FPKfOKg/edit?usp=sharing).
 
-A view of the dashboard used to report and explore the dataset is seen here !\<img width="679" height="511" alt="dashboard" src="https://github.com/user-attachments/assets/e07fa8c8-8f08-4339-b624-80231f65e7f5" />
+A view of the dashboard used to report and explore the dataset is seen here <img width="679" height="511" alt="dashboard" src="https://github.com/user-attachments/assets/efe24ad2-bf19-4797-8246-ee516ddc8a53" />
+
 
 
 
@@ -24,7 +25,8 @@ A view of the dashboard used to report and explore the dataset is seen here !\<i
 
 The data structure consists of two tables: Sales and Products, The Sales table contains 500 records.
 
-!\[Visualization specific to category 2](./E-Commerce\_Project/Project\_ERD.png)
+<img width="636" height="497" alt="Project_ERD" src="https://github.com/user-attachments/assets/e2205f54-61e5-4b46-9563-e6305fc098d8" />
+
 
 Before beginning the analysis, thorough cleaning was executed using power query to remove inconsistencies and handle nulls, hence improving data quality and integrity.
 
@@ -40,7 +42,13 @@ After a spike in early June, Beets experienced a significant month-over-month de
 
 Below is the overview section of the dashboard in action.
 
-!\[Visualization specific to category 3](./E-Commerce\_Project/dashboard\_gif.gif)]
+
+
+<img width="730" height="528" alt="dashboard_" src="https://github.com/user-attachments/assets/afff00e1-bc87-4eeb-b7b4-f676f49678d6" />
+
+
+
+
 
 
 
@@ -53,7 +61,8 @@ Below is the overview section of the dashboard in action.
 * Average Order Value dropped sharply in March by 18.8%. This decline may be attributed to low selling products like Timberland having increased orders to the month prior. Subsequent months like May also experienced a decrease in AOV with July declining 10.5% relative to June. The corresponding decline in AOV and revenue suggests that the post-June slowdown reflected significant changes in both sales volume and customer purchases.
 * August saw a dip in total sales (18.4%) making it the month with the lowest sales recorded.
 
-!\[Visualization specific to category 4](./E-Commerce\_Project/Sales\_trend.png)
+<img width="667" height="175" alt="Sales_trend" src="https://github.com/user-attachments/assets/1b9236a7-24d5-4ef2-b0a9-a6eaf4d96c56" />
+
 
 
 
@@ -62,9 +71,10 @@ Below is the overview section of the dashboard in action.
 * &#x20;Monkstraps recorded the highest sales volume, with 575 units sold, followed by Oxford (561 units) and Boots (540 units). These products were the strongest volume    drivers during the period analyzed.
 * In Q1, Q2 \& Q3, Canvas generated the highest profit at $63.4K, followed by Oxford ($58.9K) and Brogues ($58.5K). This signals that the products selling the most units are not necessarily the products generating the most profit.
 * Formal footwear was the strongest-performing category, generating approximately $180K in revenue and $82K in profit from 2,000 units sold. Casual footwear followed with $83K in revenue, 935 units sold, and $38K in profit.
-* Monkstraps and Boots combined high sales volume with comparatively lower revenue, generating $51.1K and $41.1K respectively from 575 and 540 units sold. This highlights the importance of looking beyond sales when evaluating product performance.
+* Monkstraps and Boots combined sold the most units but made comparatively lower revenue, generating $51.1K and $41.1K respectively. This highlights the importance of looking beyond sales when evaluating product performance.
 
-!\[Visualization specific to category 5](./E-Commerce\_Project/Products.png)
+<img width="620" height="178" alt="Screenshot 2026-10-04 015759" src="https://github.com/user-attachments/assets/3f5d6e0f-c8b8-4f59-9e61-6674b8732943" />
+
 
 
 
@@ -75,7 +85,8 @@ Below is the overview section of the dashboard in action.
 * Cash payments accounted for 1,049 units sold, showing that customers still use cash for a significant volume of purchases despite Card and Bank Transfer generating more revenue.
 * Card payments generated the highest revenue at approximately $99.2K, followed by Bank Transfer at $94K by the end of August. This indicates that digital payment methods account for a substantial share of customer purchases.
 
-!\[Visualization specific to category 6](./E-Commerce\_Project/Customerbehavior.png)
+<img width="340" height="214" alt="Customerbehavior" src="https://github.com/user-attachments/assets/16ece971-7f2d-4b8b-902a-afe4e6827ad1" />
+
 
 
 
