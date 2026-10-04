@@ -73,8 +73,8 @@ Below is the overview section of the dashboard in action.
 * Formal footwear was the strongest-performing category, generating approximately $180K in revenue and $82K in profit from 2,000 units sold. Casual footwear followed with $83K in revenue, 935 units sold, and $38K in profit.
 * Monkstraps and Boots combined sold the most units but made comparatively lower revenue, generating $51.1K and $41.1K respectively. This highlights the importance of looking beyond sales when evaluating product performance.
 
-<img width="620" height="178" alt="Screenshot 2026-10-04 015759" src="https://github.com/user-attachments/assets/3f5d6e0f-c8b8-4f59-9e61-6674b8732943" />
 
+<img width="620" height="178" alt="Screenshot 2026-10-04 015759" src="https://github.com/user-attachments/assets/cd609b0a-fa59-4441-b29d-71b2f803e9c4" />
 
 
 
@@ -85,7 +85,7 @@ Below is the overview section of the dashboard in action.
 * Cash payments accounted for 1,049 units sold, showing that customers still use cash for a significant volume of purchases despite Card and Bank Transfer generating more revenue.
 * Card payments generated the highest revenue at approximately $99.2K, followed by Bank Transfer at $94K by the end of August. This indicates that digital payment methods account for a substantial share of customer purchases.
 
-<img width="340" height="214" alt="Customerbehavior" src="https://github.com/user-attachments/assets/16ece971-7f2d-4b8b-902a-afe4e6827ad1" />
+<img width="358" height="219" alt="customer_behavior" src="https://github.com/user-attachments/assets/176c52f8-8200-4c63-a971-9a9030673344" />
 
 
 
