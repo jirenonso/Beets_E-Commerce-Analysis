@@ -1,3 +1,6 @@
+<img width="2000" height="2000" alt="Blue and White Simple Shoe Store Logo" src="https://github.com/user-attachments/assets/bf43b214-dc9e-4eb4-98d2-1c4e5fc9d6fb" />
+
+
 # Project Background
 
 Beets, established in 2025, is a global e-commerce footwear retailer that sells sophisticated kinds of formal \& casual footwears to customers across multiple markets.
