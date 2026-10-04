@@ -7,7 +7,7 @@ The store has valuable data on its sales, products, customer purchasing behavior
 
 Insights and recommendations are provided on the following key areas:
 
-Sales Trend Analysis: Evaluation of overall sales both by country and category, focusing on Revenue, Profit, Volume of orders and Average Order Value (AOV)
+Sales Trend Analysis: Evaluation of overall sales both by products and category, focusing on North Star Metrics: Revenue, Profit, Volume of orders and Average Order Value (AOV)
 
 Brand & Product level Performance: An analysis of Beet's products, brands \& categories, including their impact on sales
 
