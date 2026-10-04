@@ -1,0 +1,54 @@
+The following DAX formulas were used in creating new measures as well as performing calculations and aggregations, time intelligence on our data model;
+
+Total Revenue = SUMX('Shoe sales', 'Shoe sales'[Quantity] * RELATED('Price'[Price]))
+
+Total Cost = SUMX('Shoe sales', 'Shoe sales'[Quantity] * RELATED('Price'[Cost]))
+
+Avg Order value = DIVIDE([Total Revenue], COUNTROWS('Shoe sales'))
+
+Total Quantity = SUM('Shoe sales'[Quantity])
+
+Total Profit = [Total Revenue] - [Total Cost]
+
+Profit margin % = DIVIDE([Total Profit], [Total Revenue])
+
+Calendar =
+ VAR Minyear = YEAR(MIN(Sales[Date]))
+ VAR Maxyear = YEAR(MAX(Sales[Date])) 
+RETURN 
+ADDCOLUMNS(
+CALENDAR(
+DATE(Minyear, 1,1),
+ DATE(Maxyear, 12, 31)
+),
+ "Year", YEAR([Date]),
+ "Month Number", MONTH([Date]),
+ "Month Name", FORMAT([Date], "MMMM"), 
+"Month Short", FORMAT([Date], "MMM"),
+ "Year Month Number", (YEAR([Date]) * 100) + MONTH([Date]), 
+"Day of Week Number", WEEKDAY([Date], 2), 
+"Day of Week", FORMAT([Date], "dddd")
+)
+
+MoM % Revenue = 
+VAR _CM = [Total Revenue]
+ VAR _PM =
+ CALCULATE(
+[Total Revenue], 
+DATEADD('Calendar'[Date], -1, MONTH )) 
+RETURN
+ DIVIDE( _CM - _PM, _PM)
+
+MoM % Avg Order Value = 
+VAR _CM = [Avg Order Value]
+ VAR _PM =
+ CALCULATE(
+[Avg Order Value], 
+DATEADD('Calendar'[Date], -1, MONTH )) 
+RETURN
+ DIVIDE( _CM - _PM, _PM)
+ 
+
+color red - #FF0000
+green - #008000
+
