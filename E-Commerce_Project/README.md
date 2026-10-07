@@ -16,7 +16,7 @@ Brand & Product level Performance: An analysis of Beet's products, brands \& cat
 
 Customer Behavior and Purchasing Pattern: Analysis of customer product preference and payment behaviour to understand their contribution to sales
 
-The DAX Formulas used to calculate and aggregate new measures for this analysis can be found \[here]([https://docs.google.com/document/d/1ar1-KqKwVl\_Z9YIilHPeV29UvgUJwl3iw9Y3FPKfOKg/edit?usp=sharing](https://github.com/jirenonso/E-Commerce-Retail-Project/blob/main/E-Commerce_Project/DAX%20Formulas)).
+The DAX Formulas used to calculate and aggregate new measures for this analysis can be found [here](https://github.com/jirenonso/Beets_E-Commerce-Analysis/blob/main/E-Commerce_Project/DAX%20Formulas)
 
 A view of the dashboard used to report and explore the dataset is seen here <img width="679" height="511" alt="dashboard" src="https://github.com/user-attachments/assets/efe24ad2-bf19-4797-8246-ee516ddc8a53" />
 
